@@ -14,5 +14,10 @@ Feito um site para uma clinica ficticia onde foi utilizado
 - Links e Iframe
 - CSS basico
 
+## Terceiro Desafio 
+Não finalizado 
+- Faltando Conteudo
+- Faltando fazer HTML semantico
+
 # Observações
 Ao final do Projeto irei fazer toda a refatoração do codigo com HTML5 e CSS completo e vai ficar na pasta refatoração
