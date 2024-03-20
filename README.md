@@ -15,9 +15,8 @@ Feito um site para uma clinica ficticia onde foi utilizado
 - CSS basico
 
 ## Terceiro Desafio 
-Não finalizado 
-- Faltando Conteudo
-- Faltando fazer HTML semantico
+Finalizado site de um jogo que gosto Guild Wars 2
+- falta verificar a acessibilidade
 
 # Observações
 Ao final do Projeto irei fazer toda a refatoração do codigo com HTML5 e CSS completo e vai ficar na pasta refatoração
